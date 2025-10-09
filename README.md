@@ -111,6 +111,70 @@ We need to know which of the advertising platforms is really effective in genera
 
 Calculating mean coversions, t-stat and p-value
 
+<img width="756" height="738" alt="image" src="https://github.com/user-attachments/assets/3bce545e-bcac-4aea-a660-a7872fc0a522" />
+
+The mean number of conversions from Google ads (82.51) is substantially higher than the mean number of conversions from Facebook ads (26.13). This suggests that, on average, Google advertising is more effective in generating conversions compared to Facebook advertising. The p-value ( 0.0000) indicates strong evidence against the null hypothesis.
+
+The results strongly support the alternate hypothesis, indicating that the number of conversions from Google advertising is indeed greater than the number of conversions from Facebook advertising.
+
+Google advertising appears to be a more effective channel for generating conversions compared to Facebook advertising, based on the sample data analyzed.
+
+Given the significant difference in conversion rates between Google and Facebook, consider reallocating resources towards Google advertising efforts. This could involve increasing ad spend, expanding targeting efforts, or experimenting with different ad formats to capitalize on the platform’s effectiveness in driving conversions.
+
+**What will happen when we go with Google Ads? How many Google Ads conversions can we expect given a certain number of Google Ads clicks?**
+
+We calculate R² score before calculating prediction, do we would know its predictive power.
+
+Calculating R-squared score
+
+<img width="923" height="641" alt="image" src="https://github.com/user-attachments/assets/b85a66b2-ca34-4ffc-8ff4-248d294c2e88" />
+
+The regression model explains about 71% (R² = 0.71) of the variation in conversions using clicks.
+It is fairly accurate at predicting how many conversions you can expect as clicks increase.
+
+Correlation between Google clicks and conversions with trendline
+
+<img width="999" height="127" alt="image" src="https://github.com/user-attachments/assets/b9d80965-fe8e-416a-8b38-9a5da04aa19e" />
+
+<img width="873" height="614" alt="image" src="https://github.com/user-attachments/assets/3d0f9fd9-c538-4d45-9b41-f090a2a64a32" />
+
+This shows a clear upward trend. More clicks on Google Ads generally lead to more conversions.
+
+Prediction of the number of conversion from a specific number of clicks
+
+<img width="759" height="67" alt="image" src="https://github.com/user-attachments/assets/52bf4cee-c811-493a-a7f8-73f375589909" />
+
+<img width="854" height="122" alt="image" src="https://github.com/user-attachments/assets/b766df98-068e-4864-8580-441b9e6d274b" />
+
+When Google Ads receives 100 clicks, you can expect around 34 conversions.
+When clicks increase to 250, conversions are expected to rise to 88.
+
+**Which ad platform is more cost-effective?**
+
+<img width="1090" height="540" alt="image" src="https://github.com/user-attachments/assets/cc6703bb-5ba0-4db7-83f4-aba406f3c3e5" />
+
+<img width="767" height="556" alt="image" src="https://github.com/user-attachments/assets/08e31c98-2f12-47c0-9f2a-ea0a3de09251" />
+
+Average CPC for Google Ads is less than Average CPC for Facebook. Hypothesis testing will be carried out for further analysis to ascertain whether Google Ads really has a lower CPC than Facebook Ads.
+
+**Hypothesis Testing**
+Null Hypothesis (H₀): Google Ads’ CPC is greater than or equal to Facebook’s CPC.
+Alternative Hypothesis (H₁): Google Ads’ CPC is less than Facebook’s CPC.
+
+<img width="802" height="362" alt="image" src="https://github.com/user-attachments/assets/582e68d5-fb63-463b-b49b-09e4e75f65f6" />
+
+<img width="482" height="105" alt="image" src="https://github.com/user-attachments/assets/e6eb48f9-3284-4605-9888-972cd0d93b88" />
+
+The mean CPC from Facebook ads ($7.24) is substantially higher than the mean CPC from Google ads ($2.73). This suggests that, on average, Google advertising is more cost-effective in generating conversions compared to Facebook advertising. The p-value ( 0.0000) indicates strong evidence against the null hypothesis.
+
+The results strongly support the alternate hypothesis, indicating that the Google CPC is less than the Facebook CPC
+Google advertising appears to be a more cost-effective channel for generating conversions compared to Facebook advertising, based on the sample data analyzed.
+
+**ANALYZING CAMPAIGN METRICS OVER TIME**
+
+**At what times of the month or days of the week do we experience conversions?**
+
+
 
 
 
