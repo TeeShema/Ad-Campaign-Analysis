@@ -1,7 +1,7 @@
 # Ad-Campaign-Analysis
 In 2024, a reputable marketing agency launched two major digital advertising campaigns: Facebook Ads and Google Ads to promote the same product line.  The goal was to evaluate which platform delivers better performance, higher conversions, and greater cost efficiency.     
 
-**Analysis done:**
+**SKILLS DEMONSTRATED**
 
 · Exploratory Data Analysis
 
@@ -12,6 +12,14 @@ In 2024, a reputable marketing agency launched two major digital advertising cam
 · Linear Regression
 
 · Time Series Analysis
+
+- [BUSINESS PROBLEM](#BUSINESS-PROBLEM)
+- [WHY THE NEED TO ACT](#WHY-THE-NEED-TO-ACT)
+- [BUSINESS OBJECTIVES](#BUSINESS-OBJECTIVES)
+- [ANALYSIS](#ANALYSIS)
+- [OVERALL INSIGHTS](#OVERALL-INSIGHTS)
+- [RECOMMENDATIONS](#RECOMMENDATIONS)
+- [CONCLUSION](#conclusion)
 
 **Business Problem**
 
@@ -99,6 +107,7 @@ Calculating correlation co-efficient
 The relationship between clicks and conversions is very different for the two platforms:
 
 • **Facebook Ads**: The scatter plot shows no clear pattern. Conversions remain scattered regardless of the number of clicks. The correlation coefficient is -0.04, meaning there is virtually no relationship between the number of clicks and conversions. More clicks on Facebook ads do not necessarily lead to more sales.
+
 • **Google Ads**: The data shows a strong upward trend. As clicks increase, conversions also rise noticeably. The correlation coefficient is 0.84, indicating a very strong positive relationship between clicks and conversions. The strong correlation between clicks on Google ads and sales suggests that Google advertising is highly effective in driving sales for the business. Increasing investment in Google ads or optimizing their performance could potentially lead to even higher sales.
 
 **Hypothesis Testing:**
