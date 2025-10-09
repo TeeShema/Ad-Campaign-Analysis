@@ -165,6 +165,7 @@ Alternative Hypothesis (H₁): Google Ads’ CPC is less than Facebook’s CPC.
 
 <img width="482" height="105" alt="image" src="https://github.com/user-attachments/assets/e6eb48f9-3284-4605-9888-972cd0d93b88" />
 
+
 The mean CPC from Facebook ads ($7.24) is substantially higher than the mean CPC from Google ads ($2.73). This suggests that, on average, Google advertising is more cost-effective in generating conversions compared to Facebook advertising. The p-value ( 0.0000) indicates strong evidence against the null hypothesis.
 
 The results strongly support the alternate hypothesis, indicating that the Google CPC is less than the Facebook CPC
@@ -174,8 +175,96 @@ Google advertising appears to be a more cost-effective channel for generating co
 
 **At what times of the month or days of the week do we experience conversions?**
 
+<img width="942" height="625" alt="image" src="https://github.com/user-attachments/assets/31c8522a-ef94-4fe7-bacd-8d1e31bde0c8" />
+
+<img width="1610" height="632" alt="image" src="https://github.com/user-attachments/assets/22e292a3-6ea2-4fab-b668-ec13fc0434e6" />
+
+Day-of-the-Week Trends:
+
+• Conversions peak on Tuesdays, suggesting strong engagement early in the week, likely when campaigns and audiences are most active.
+
+• There is a gradual decline from Wednesday to Friday, with Friday recording the lowest weekday conversions.
+
+• Conversions pick up again during the weekend (Saturday and Sunday), showing renewed interest,possibly from leisure-time browsing or weekend offers.
+
+Audience engagement is strongest early in the week (Tuesday) and again on weekends, indicating these are prime days to schedule campaigns or allocate higher budgets.
+
+<img width="1599" height="640" alt="image" src="https://github.com/user-attachments/assets/ccaa0ac8-90cf-46a3-91f4-f8deba554e0e" />
+
+Month-by-Month Trends:
+
+• Conversions remain relatively stable from January to June, showing consistent campaign performance in the first half of the year.
+
+• A notable surge occurs in August and September, reaching the highest conversion levels, possibly driven by seasonal promotions or back-to-school marketing periods.
+
+• Conversions dip in October and November, then rebound slightly in December, which may reflect changing ad strategies or audience fatigue before year-end campaigns.
+
+Late summer to early fall (August–September) delivers the strongest conversion performance, suggesting this period has the best responsiveness.
+
+**How does CPC trend over time?**
+
+<img width="686" height="247" alt="image" src="https://github.com/user-attachments/assets/a2472a4d-9950-4cbd-b8be-48835e55031d" />
+
+<img width="1583" height="632" alt="image" src="https://github.com/user-attachments/assets/9178e76d-da9a-421d-bb01-cbe0e02ff839" />
+
+- March records the highest CPC, suggesting a period of intense competition, likely due to seasonal campaigns or increased ad
+spending early in the year.
+
+- After March, CPC stabilizes between April and August, indicating a relatively consistent and efficient ad performance period.
+
+- A sharp dip in September points to reduced competition, which may present an opportunity for cost-efficient ad placements.
+
+- CPC rises again in October and November, aligning with Q4 marketing pushes (e.g., holiday promotions and end-of-year sales).
+
+- December sees another decline, possibly as campaigns wind down and budgets are exhausted.
+
+CPC trends suggest cyclical ad competition, peaking in March and Q4, with lower-cost opportunities in September and December for
+advertisers seeking to maximize ROI.
+
+**OVERALL INSIGHTS**
+Google Ads clearly outperformed Facebook Ads across all key metrics; more clicks, higher conversions (avg. 82 vs. 26), and a stronger click-to-conversion link (correlation = 0.84).
+Facebook Ads delivered consistent but lower conversions, showing limited impact on driving sales.
+Google Ads proved more cost-efficient, with a significantly lower CPC ($2.73 vs. $7.24).
+Conversions peaked on Tuesdays and weekends, with August–September being the most productive months.
+High CPC periods: March, October, and November due to increased ad competition.
 
 
+**RECOMMENDATIONS**
+
+1. Reallocate Budget Strategically:
+
+Prioritize Google Ads for conversion-driven campaigns, allocating 60–70% of total ad spend to capitalize on its stronger ROI and cost efficiency.
+Maintain 30–40% for Facebook Ads to sustain brand awareness and consistent audience engagement.
+
+2. Optimize Campaign Timing:
+
+Schedule major ad pushes on Tuesdays and weekends, when engagement is highest.
+Plan major promotions or launches in August–September, leveraging peak conversion months.
+
+3. Cost Management:
+
+Reduce spend during high CPC months (March, October, November) or focus on campaigns with higher ROI potential during those periods.
+Increase ad activity in September and December to benefit from lower CPC and reduced competition.
+
+4. Performance Optimization:
+
+For Facebook: Test new ad creatives, refine audience targeting, or experiment with retargeting to improve conversion rates.
+For Google: Continue investing in high-performing keywords and expand successful ad groups.
+
+5. A/B Testing & Predictive Modeling:
+
+Conduct ongoing A/B tests to refine campaign creatives, audiences, and bidding strategies.
+Use regression insights to predict future conversions and guide budget allocation dynamically based on expected performance.
+
+
+**CONCLUSION**
+Google Ads is the stronger, more cost-effective platform for driving conversions and ROI.
+Facebook remains useful for consistent engagement and brand awareness, but Google delivers higher performance and efficiency.
+A balanced, data-driven allocation strategy between both platforms will enhance campaign results, optimize budget use, and improve client ROI.
+
+
+
+ 
 
 
 
