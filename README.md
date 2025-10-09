@@ -60,7 +60,7 @@ Provide actionable recommendations for optimizing future ad budgets, targeting s
 
  <img width="1463" height="699" alt="image" src="https://github.com/user-attachments/assets/c7d14314-b85b-46a2-afaf-0e8abb31b75d" />
 
-**Comparing Campain Performance**
+**Comparing Campaign Performance**
 
 <img width="881" height="317" alt="image" src="https://github.com/user-attachments/assets/2cf7a367-1fa1-4ee9-9593-5d87b745de36" />
 
@@ -269,6 +269,7 @@ Use regression insights to predict future conversions and guide budget allocatio
 
 
 **CONCLUSION**
+
 Google Ads is the stronger, more cost-effective platform for driving conversions and ROI.
 Facebook remains useful for consistent engagement and brand awareness, but Google delivers higher performance and efficiency.
 A balanced, data-driven allocation strategy between both platforms will enhance campaign results, optimize budget use, and improve client ROI.
