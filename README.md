@@ -39,5 +39,19 @@ Determine cost-effectiveness by analyzing metrics such as CPC and total spend ac
 Provide actionable recommendations for optimizing future ad budgets, targeting strategies, and platform selection.
 
 **ANALYSIS**
+ 
+ **Exploratory Data Analysis**
+
+ <img width="914" height="176" alt="image" src="https://github.com/user-attachments/assets/d0b27d72-60cc-44cc-b42d-7da8905382c7" />
+
+ <img width="1710" height="362" alt="image" src="https://github.com/user-attachments/assets/68678a00-cff6-45d2-8160-86585fda6918" />
+
+ <img width="1015" height="305" alt="image" src="https://github.com/user-attachments/assets/1a927bff-b65d-4f21-ba8a-17a5ced622d8" />
+
+ <img width="1463" height="699" alt="image" src="https://github.com/user-attachments/assets/c7d14314-b85b-46a2-afaf-0e8abb31b75d" />
+
+
+
+
 
 
