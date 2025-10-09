@@ -12,6 +12,8 @@ In 2024, a reputable marketing agency launched two major digital advertising cam
 · Linear Regression
 
 · Time Series Analysis
+ 
+ **TABLE OF CONTENTS**
 
 - [BUSINESS PROBLEM](#BUSINESS-PROBLEM)
 - [WHY THE NEED TO ACT](#WHY-THE-NEED-TO-ACT)
