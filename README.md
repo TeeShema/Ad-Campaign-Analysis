@@ -50,6 +50,28 @@ Provide actionable recommendations for optimizing future ad budgets, targeting s
 
  <img width="1463" height="699" alt="image" src="https://github.com/user-attachments/assets/c7d14314-b85b-46a2-afaf-0e8abb31b75d" />
 
+**Comparing Campain Performance**
+
+<img width="881" height="317" alt="image" src="https://github.com/user-attachments/assets/2cf7a367-1fa1-4ee9-9593-5d87b745de36" />
+
+<img width="1451" height="660" alt="image" src="https://github.com/user-attachments/assets/3cc3ef25-39bb-42af-8a0d-a922972711b5" />
+
+<img width="866" height="321" alt="image" src="https://github.com/user-attachments/assets/602cfcf0-4b5d-45b9-9889-2125ffd964be" />
+
+<img width="1425" height="618" alt="image" src="https://github.com/user-attachments/assets/34bb38c3-8561-409b-aa38-1df2c83ab6cb" />
+
+- Facebook ads received between 50–300 clicks most days, leading to around 5–50 conversions. This shows steady interest but fewer actions taken.
+- Google ads had higher activity, with clicks ranging from 50–400 and conversions between 25–200, meaning some days performed extremely well.
+- Facebook’s results were more consistent, but yielded conversions lesser than 50.
+- Google performs more than Facebook in clicks and mostly conversions.
+- Facebook built awareness, Google delivered conversions.
+
+**How frequently do we observe days of a high number of conversions compared to days with a low number of conversions?
+**
+
+
+
+
 
 
 
