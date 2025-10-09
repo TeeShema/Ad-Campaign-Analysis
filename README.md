@@ -169,6 +169,7 @@ When clicks increase to 250, conversions are expected to rise to 88.
 Average CPC for Google Ads is less than Average CPC for Facebook. Hypothesis testing will be carried out for further analysis to ascertain whether Google Ads really has a lower CPC than Facebook Ads.
 
 **Hypothesis Testing**
+
 Null Hypothesis (H₀): Google Ads’ CPC is greater than or equal to Facebook’s CPC.
 Alternative Hypothesis (H₁): Google Ads’ CPC is less than Facebook’s CPC.
 
@@ -233,6 +234,7 @@ CPC trends suggest cyclical ad competition, peaking in March and Q4, with lower-
 advertisers seeking to maximize ROI.
 
 **OVERALL INSIGHTS**
+
 Google Ads clearly outperformed Facebook Ads across all key metrics; more clicks, higher conversions (avg. 82 vs. 26), and a stronger click-to-conversion link (correlation = 0.84).
 Facebook Ads delivered consistent but lower conversions, showing limited impact on driving sales.
 Google Ads proved more cost-efficient, with a significantly lower CPC ($2.73 vs. $7.24).
