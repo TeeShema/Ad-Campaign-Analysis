@@ -41,14 +41,14 @@ Without clear visibility into which platform performs best, our marketing spend 
 
 By acting now, the agency can make evidence-based budget allocation decisions, improve client satisfaction, and strengthen overall campaign ROI.
 
-#Business Objectives#
+# Business Objectives
 
-Compare performance metrics between Facebook and Google campaigns to identify which platform generates better engagement, conversions, and ROI
-Uncover performance patterns across days, weeks, and months to understand when and where each platform performs best.
-Determine cost-effectiveness by analyzing metrics such as CPC and total spend across both campaigns.
-Provide actionable recommendations for optimizing future ad budgets, targeting strategies, and platform selection.
+1. Compare performance metrics between Facebook and Google campaigns to identify which platform generates better engagement, conversions, and ROI
+2. Uncover performance patterns across days, weeks, and months to understand when and where each platform performs best.
+3. Determine cost-effectiveness by analyzing metrics such as CPC and total spend across both campaigns.
+4. Provide actionable recommendations for optimizing future ad budgets, targeting strategies, and platform selection.
 
-#ANALYSIS
+# ANALYSIS
  
  **Exploratory Data Analysis**
 
@@ -270,7 +270,7 @@ Conduct ongoing A/B tests to refine campaign creatives, audiences, and bidding s
 Use regression insights to predict future conversions and guide budget allocation dynamically based on expected performance.
 
 
-#CONCLUSION
+# CONCLUSION
 
 Google Ads is the stronger, more cost-effective platform for driving conversions and ROI.
 Facebook remains useful for consistent engagement and brand awareness, but Google delivers higher performance and efficiency.
