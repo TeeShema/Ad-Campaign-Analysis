@@ -233,7 +233,7 @@ spending early in the year.
 CPC trends suggest cyclical ad competition, peaking in March and Q4, with lower-cost opportunities in September and December for
 advertisers seeking to maximize ROI.
 
-**OVERALL INSIGHTS**
+# OVERALL INSIGHTS
 
 Google Ads clearly outperformed Facebook Ads across all key metrics; more clicks, higher conversions (avg. 82 vs. 26), and a stronger click-to-conversion link (correlation = 0.84).
 Facebook Ads delivered consistent but lower conversions, showing limited impact on driving sales.
