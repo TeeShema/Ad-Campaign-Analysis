@@ -236,9 +236,13 @@ advertisers seeking to maximize ROI.
 # OVERALL INSIGHTS
 
 Google Ads clearly outperformed Facebook Ads across all key metrics; more clicks, higher conversions (avg. 82 vs. 26), and a stronger click-to-conversion link (correlation = 0.84).
+
 Facebook Ads delivered consistent but lower conversions, showing limited impact on driving sales.
+
 Google Ads proved more cost-efficient, with a significantly lower CPC ($2.73 vs. $7.24).
+
 Conversions peaked on Tuesdays and weekends, with August–September being the most productive months.
+
 High CPC periods: March, October, and November due to increased ad competition.
 
 
