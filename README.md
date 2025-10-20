@@ -23,7 +23,7 @@ In 2024, a reputable marketing agency launched two major digital advertising cam
 - [RECOMMENDATIONS](#RECOMMENDATIONS)
 - [CONCLUSION](#conclusion)
 
-#Business Problem
+# Business Problem
 
 As a marketing agency, our goal is to help clients achieve maximum returns from their ad spend. In 2024, we launched two major advertising campaigns: Facebook and Google, both designed to drive traffic, conversions, and revenue for the same product line.
 
@@ -242,7 +242,7 @@ Conversions peaked on Tuesdays and weekends, with August–September being the m
 High CPC periods: March, October, and November due to increased ad competition.
 
 
-#RECOMMENDATIONS
+# RECOMMENDATIONS
 
 1. Reallocate Budget Strategically:
 
