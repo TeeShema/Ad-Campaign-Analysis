@@ -1,4 +1,7 @@
 # Ad-Campaign-Analysis
+
+<img width="673" height="452" alt="image" src="https://github.com/user-attachments/assets/7ac2b80e-ec4c-409c-903e-e464b5347882" />
+
 In 2024, a reputable marketing agency launched two major digital advertising campaigns: Facebook Ads and Google Ads to promote the same product line.  The goal was to evaluate which platform delivers better performance, higher conversions, and greater cost efficiency.     
 
 **SKILLS DEMONSTRATED**
